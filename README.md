@@ -21,7 +21,7 @@ Latest Tutorials on Youtube👇:
 ▶ Connect with me:
 IG :[AhmadKsablouh](https://www.instagram.com/ahmadksablouh/)
 Linkedln: [Ahmad Sablouh](https://www.linkedin.com/in/ahmadksablouh)
-Facebook:
+
 
 ▶ Languages and Tools:
 amplify babel bootstrap bulma chartjs css3 d3js express figma firebase git html5 javascript linux materialize mongodb mysql nextjs nodejs php postman python react redux sass tailwind typescript webpack
